@@ -1,0 +1,20 @@
+.list {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  background-color: #cee1f7;
+  list-style-type: none;
+  padding: 5px;
+  color: rgb(43, 39, 39);
+  justify-content: space-around;
+  text-decoration: none;
+  border: 1px solid rgb(44, 41, 41);
+}
+
+.list_btn {
+  background-color: #3977be;
+  padding: 2px;
+  color: rgb(238, 233, 233);
+  border-radius: 8px;
+  padding: 4px;
+}

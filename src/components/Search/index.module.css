@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4px;
+}
+.btn {
+  background-color: #78cfaf;
+  border: 1px solid black;
+  font-size: 18px;
+  height: 39px;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.search_input {
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 15px;
+  border: 1px solid red;
+}
